@@ -8,7 +8,7 @@
  * @license LGPL-3.0-or-later
  */
 
-namespace Localbranding-de\Membershiplevels\ContaoManager;
+namespace Localbranding-de\MembershiplevelsBundle\ContaoManager;
 
 use Contao\CoreBundle\ContaoCoreBundle;
 use Contao\ManagerPlugin\Bundle\BundlePluginInterface;
