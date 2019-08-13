@@ -1,5 +1,5 @@
 {
-    "name": "localbranding-de/membershiplevels",
+    "name": "localbranding-de/membershiplevels-bundle",
     "type": "contao-bundle",
     "description": "Hello World extension for Contao Open Source CMS",
     "license": "LGPL-3.0-or-later",
@@ -29,20 +29,20 @@
         "symfony/phpunit-bridge": "^3.2"
     },
     "extra": {
-        "contao-manager-plugin": "Localbranding-de\\Membershiplevels\\ContaoManager\\Plugin"
+        "contao-manager-plugin": "Localbranding-de\\MembershiplevelsBundle\\ContaoManager\\Plugin"
     },
     "autoload": {
         "psr-4": {
-            "Localbranding-de\\Membershiplevels\\": "src/"
+            "Localbranding-de\\MembershiplevelsBundle\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Localbranding-de\\Membershiplevels\\Tests\\": "tests/"
+            "Localbranding-de\\MembershiplevelsBundle\\Tests\\": "tests/"
         }
     },
     "support": {
-        "issues": "https://github.com/localbranding-de/membershiplevels/issues",
-        "source": "https://github.com/localbranding-de/membershiplevels"
+        "issues": "https://github.com/localbranding-de/membershiplevels-bundle/issues",
+        "source": "https://github.com/localbranding-de/membershiplevels-bundle"
     }
 }
