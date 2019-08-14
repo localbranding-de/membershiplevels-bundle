@@ -8,7 +8,7 @@
  * @license LGPL-3.0-or-later
  */
 
-namespace Localbranding-de\MembershiplevelsBundle\DependencyInjection;
+namespace LocalbrandingDe\MembershiplevelsBundle\DependencyInjection;
 
 use Symfony\Component\Config\FileLocator;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
