@@ -28,16 +28,16 @@
 		"symfony/phpunit-bridge" : "^3.2"
 	},
 	"extra" : {
-		"contao-manager-plugin" : "Localbranding-de\\MembershiplevelsBundle\\ContaoManager\\Plugin"
+		"contao-manager-plugin" : "LocalbrandingDe\\MembershiplevelsBundle\\ContaoManager\\Plugin"
 	},
 	"autoload" : {
 		"psr-4" : {
-			"Localbranding-de\\MembershiplevelsBundle\\" : "src/"
+			"LocalbrandingDe\\MembershiplevelsBundle\\" : "src/"
 		}
 	},
 	"autoload-dev" : {
 		"psr-4" : {
-			"Localbranding-de\\MembershiplevelsBundle\\Tests\\" : "tests/"
+			"LocalbrandingDe\\MembershiplevelsBundle\\Tests\\" : "tests/"
 		}
 	},
 	"support" : {
