@@ -1,5 +1,5 @@
 <?php 
-namespace Memberlevels;
+namespace LocalbrandingDe\MembershiplevelsBundle\Classes;
 class honischClass // Klassenname = Dateiname (ohne .php)
 {
     public function __construct() {} // eventuell nicht nötig, probieren
@@ -13,7 +13,7 @@ class honischClass // Klassenname = Dateiname (ohne .php)
     
     public function myOutputBackendTemplate($strContent, $strTemplate)
     {
-        ;s
+        file_put_contents("test43ss","ysdas");
         if ($strTemplate == 'be_main')
         {
             file_put_contents("test43s","ysdas");
