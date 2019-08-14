@@ -1,7 +1,6 @@
 {
 	"name" : "localbranding-de/membershiplevels-bundle",
 	"type" : "contao-bundle",
-	"minimum-stability": "stable",
 	"description" : "Hello World extension for Contao Open Source CMS",
 	"license" : "LGPL-3.0-or-later",
 	"authors" : [{
