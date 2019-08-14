@@ -8,7 +8,7 @@
  * @license LGPL-3.0-or-later
  */
 
-namespace Localbranding-de\MembershiplevelsBundle;
+namespace LocalbrandingDe\MembershiplevelsBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
