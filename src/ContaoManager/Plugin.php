@@ -8,13 +8,13 @@
  * @license LGPL-3.0-or-later
  */
 
-namespace Localbranding-de\MembershiplevelsBundle\ContaoManager;
+namespace LocalbrandingDe\MembershiplevelsBundle\ContaoManager;
 
 use Contao\CoreBundle\ContaoCoreBundle;
 use Contao\ManagerPlugin\Bundle\BundlePluginInterface;
 use Contao\ManagerPlugin\Bundle\Config\BundleConfig;
 use Contao\ManagerPlugin\Bundle\Parser\ParserInterface;
-use Localbranding-de\MembershiplevelsBundle\MembershiplevelsBundle;
+use LocalbrandingDe\MembershiplevelsBundle\MembershiplevelsBundle;
 
 class Plugin implements BundlePluginInterface
 {
