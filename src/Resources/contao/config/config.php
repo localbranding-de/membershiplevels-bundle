@@ -1,5 +1,4 @@
 <?php
-namespace Memberlevels;
 /*
  * Cookiebar extension for Contao Open Source CMS
  *
