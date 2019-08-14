@@ -13,4 +13,4 @@ namespace Memberlevels;
 /**
  * Hooks.
  */
-$GLOBALS['TL_HOOKS']['outputBackendTemplate'][] = array('\Memberlist\honischClass::class', 'myOutputBackendTemplate');
+$GLOBALS['TL_HOOKS']['outputBackendTemplate'][] = array('LocalbrandingDe\MembershiplevelsBundle\honischClass', 'myOutputBackendTemplate');
