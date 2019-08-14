@@ -8,9 +8,9 @@
  * @license LGPL-3.0-or-later
  */
 
-namespace Localbranding-de\MembershiplevelsBundle\Tests;
+namespace LocalbrandingDe\MembershiplevelsBundle\Tests;
 
-use Localbranding-de\MembershiplevelsBundle\MembershiplevelsBundle;
+use LocalbrandingDe\MembershiplevelsBundle\MembershiplevelsBundle;
 use PHPUnit\Framework\TestCase;
 
 class MembershiplevelsBundleTest extends TestCase
