@@ -1,6 +1,6 @@
 <?php
 namespace LocalbrandingDe\MembershiplevelsBundle\EventListener;
-class OutputBackendTemplateListener.php // Klassenname = Dateiname (ohne .php)
+class OutputBackendTemplateListener// Klassenname = Dateiname (ohne .php)
 {
     public function __construct() {} // eventuell nicht nötig, probieren
     
