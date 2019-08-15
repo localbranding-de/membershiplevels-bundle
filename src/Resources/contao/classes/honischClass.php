@@ -1,5 +1,5 @@
 <?php 
-namespace LocalbrandingDe\MembershiplevelsBundle\Classes;
+namespace LocalbrandingDe\MembershiplevelsBundle\;
 class honischClass // Klassenname = Dateiname (ohne .php)
 {
     public function __construct() {} // eventuell nicht nötig, probieren
