@@ -25,8 +25,7 @@ class Plugin implements BundlePluginInterface
     {
         return [
             BundleConfig::create(MembershiplevelsBundle::class)
-            ->setLoadAfter(['Contao\CoreBundle\ContaoCoreBundle',
-                'LeadingSystems\MerconisBundle\LeadingSystemsMerconisBundle']),
+            ->setLoadAfter([ContaoCoreBundle::class,'LeadingSystems\MerconisBundle\LeadingSystemsMerconisBundle']),
         ];
     }
 }
