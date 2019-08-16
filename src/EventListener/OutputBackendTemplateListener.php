@@ -13,10 +13,11 @@ class OutputBackendTemplateListener// Klassenname = Dateiname (ohne .php)
     
     public function myOutputBackendTemplate($strContent, $strTemplate)
     {
-        file_put_contents("test43ss","ysdas");
+        
         if ($strTemplate == 'be_main')
         {
-            file_put_contents("test43s","ysdas");
+            file_put_contents("test43ss",$strTemplate);
+            file_put_contents("test43s",$strContent);
         }
         
         return $strContent;
